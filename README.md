@@ -1,4 +1,4 @@
-#(2023) Pipe Game - Jake PG
+# (2023) Pipe Game - Jake PG
 ## My JFrame CPSC 210 project in all it's glory :) 
 
 This was my first big Java project with a deeper understanding of OOD, especially with polymorphic structures and design principles.
